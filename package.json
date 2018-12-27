@@ -1,0 +1,30 @@
+{
+  "name": "web_template_l1",
+  "version": "1.0.0",
+  "description": "A basic web app template with no database nor user account functions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiajianou/web_template_l1.git"
+  },
+  "keywords": [
+    "web",
+    "template",
+    "basic"
+  ],
+  "author": "Jiajian Ou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiajianou/web_template_l1/issues"
+  },
+  "homepage": "https://github.com/Jiajianou/web_template_l1#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "pug": "^2.0.3"
+  }
+}
